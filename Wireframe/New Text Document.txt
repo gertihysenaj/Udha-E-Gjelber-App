@@ -30,6 +30,14 @@ Group Members:
 - Partridge Leka
 - Elton Deda
 
+Github link:
+https://github.com/gertihysenaj/Udha-e-Gjelber-App
+
+AWS Link:
+
+
+
+
 //////////////////
 Shqip/Albanian  //
 //////////////////
@@ -60,6 +68,11 @@ Group Members:
 - Thëllëza Leka
 - Elton Deda
 
+
+Github link:
+https://github.com/gertihysenaj/Udha-e-Gjelber-App
+
+AWS Link:
 
 
 
