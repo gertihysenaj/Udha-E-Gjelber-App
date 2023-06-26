@@ -1,0 +1,21 @@
+
+.navbar-container {
+    border: 2px solid grey;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  .custom-navbar {
+    max-width: 1400px; 
+    margin: 0 auto; 
+  }
+
+  .logo {
+    width: 140px;
+  }
+
+  .custom-navbar .green-text{
+    color:#058b36;
+    margin: 0;
+    padding: 0;
+  }

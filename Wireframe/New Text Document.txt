@@ -1,0 +1,68 @@
+
+////////////////
+English:   /////
+////////////////
+
+
+Description:
+The application aims to encourage urban and extra-urban mobility
+with eco-friendly options and also track and display energy efficiency
+of using these green methods of transport.
+
+Features:
+1) Mobility and Road Planning:
+- The application offers the user the best possible routes for their journey, giving priority to public transport, cycling, walking or electric vehicles. It can use an API like Google Maps or Graphhopper for mapping and route planning.
+2) Energy tracking:
+- The application tracks the energy efficiency of the chosen route and mode of transport. It can calculate the carbon footprint saved by choosing environmentally friendly transport options.
+3) Authorization (Authentication and authorization).
+- So Users can create Accounts and log in with their profile.
+4) Community:
+- A section where people can share their experiences, tips and ideas on how to be more environmentally friendly. This can promote social interaction and learning.
+5) Blog:
+- A section where people can read different articles and leave comments
+6) Admin User
+– Access with private Routing and Middleware Verification
+7) Comments in the Blog & Community Section
+- Commenting by Users on various posts in the Blog and the community section
+
+Group Members:
+- Gerti Hysenaj
+- Partridge Leka
+- Elton Deda
+
+//////////////////
+Shqip/Albanian  //
+//////////////////
+
+Description : 
+Aplikacioni ka per synim qe të inkurajojë lëvizshmërinë urbane dhe jashtëurbane 
+me opsione miqësore me mjedisin dhe gjithashtu të gjurmojë dhe të shfaqë efikasitetin energjetik 
+të përdorimit të këtyre metodave të gjelbërta të transportit.
+
+Features: 
+1)Lëvizshmëria dhe Planifikimi i Rrugës: 
+- Aplikacioni i ofron përdoruesit rrugët më të mira të mundshme për udhëtimin e tyre, duke i dhënë përparësi transportit publik, çiklizmit, ecjes ose automjeteve elektrike. Mund të përdorë një API si Google Maps ose Graphhopper për hartëzimin dhe planifikimin e rrugës.
+2)Ndjekja e Energjisë:
+- Aplikacioni gjurmon efikasitetin energjetik të rrugës së zgjedhur dhe mënyrës së transportit. Mund të llogarisë gjurmën e karbonit të kursyer duke zgjedhur opsione transporti miqësore me mjedisin.
+3)Anetaresimin (Autentifikimi dhe autorizimi). 
+- Pra Userat mund te krijojne Llogari dhe te futen me profilin e tyre.
+4)Komuniteti: 
+- Një seksion ku njerëzit mund të ndajnë përvojat, këshillat dhe idetë e tyre se si të jenë më miqësorë me mjedisin. Kjo mund të nxisë ndërveprimin social dhe të mësuarit.
+5)Blog : 
+- Një seksion ku njerëzit mund të lexojne artikuj te ndryshem dhe mund te lene Komente
+6)Admin User 
+– Akses me private Routing dhe me Middleware Verifikimi
+7) Komentet tek Blog & Community Section 
+- Komentimi nga Userat ne Poste te ndryshme tek Blog dhe seksioni i komunitetit
+
+Group Members:
+- Gerti Hysenaj
+- Thëllëza Leka
+- Elton Deda
+
+
+
+
+
+
+
